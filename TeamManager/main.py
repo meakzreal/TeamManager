@@ -7,18 +7,6 @@
 ## Created: 09/11/2026
 ## ==========================================
 
-# create_team() — Create a new Rust team.
-
-# add_member() — Add a SteamID/player to a team.
-
-# remove_member() — Remove a player from a team.
-
-# get_team() — Retrieve a teams information.
-
-# delete_team() — Delete a team.
-
-# get_player_team() — Find which team-mate a SteamID belongs to.
-
 # IMPORTS
 
 import os
